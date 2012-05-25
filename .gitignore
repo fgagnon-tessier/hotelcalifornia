@@ -1,7 +1,0 @@
-.cache*
-app-files/logs/*
-*.xml
-*.mf
-/nbproject/
-/build/
-/dist/
